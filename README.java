@@ -8,5 +8,5 @@ System.out.println("the number is positive");
 }
 else
 {
-System.out.println("the number is negative);
+System.out.println("the number is negative");
 }}
